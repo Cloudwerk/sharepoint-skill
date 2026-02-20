@@ -16,13 +16,9 @@ List, download, and upload files from SharePoint sites programmatically using Mi
 
 ## Quick Start
 
-### 1. Install Dependencies
+### 1. Run Setup
 
-```bash
-npm install @octokit/rest @octokit/auth-app
-```
-
-### 2. Run Setup
+**No dependencies required!** Scripts use Node.js built-in `https` module.
 
 ```bash
 node scripts/setup.js
