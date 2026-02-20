@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Config files (contain secrets)
+.env
+*.env
+sharepoint.env
+.sharepoint-config.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Downloaded files (testing)
+*.docx
+*.pdf
+*.xlsx
+*.pptx
+downloads/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
